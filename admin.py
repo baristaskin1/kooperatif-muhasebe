@@ -14,4 +14,4 @@ admin.site.register(VirmanVeDuzeltme)
 admin.site.register(urun)
 admin.site.register(KDVKategorisi)
 
-
+# test
